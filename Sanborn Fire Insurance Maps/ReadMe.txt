@@ -8,3 +8,5 @@ a readme should detail the origin / source of the pdfs acquired and the usage ri
 
 The path to this readme should be as follows:
 Sanborn Fire Insurance Maps/{year of publication}/readme
+
+The format and structure of this database is modelled after the data created by the Bexar County IT GIS team. The original source can be found <a href="http://gis-bexar.opendata.arcgis.com/datasets/2a73c78c51b54e97b4af51901ac3f379_0?uiTab=table">here</a>

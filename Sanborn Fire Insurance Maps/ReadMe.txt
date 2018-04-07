@@ -1,4 +1,4 @@
-All maps will ideally be placed within a folder labelled according to the year in which the map was published / created. The file structre should generally be: 
+All maps will ideally be placed within a folder labelled according to the year in which the map was published / created. The file structure should generally be: 
 
 Sanborn Fire Insurance Maps/{year of publication}/pdfs
 AND
